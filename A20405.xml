@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Here be .vij. dialogues The fyrst is of the so[n]ne and of the moone. The seconde of Saturne, and of the clowde. The .iii. of the sterre named Transmontana, and other sterres. The .iiij. of the euyn sterre and the morowe sterre. The .v. of the raynebowe, and the sygne Cancer. The .vi. of heauen, and of earth. The .vij of the eyre, and of the wynde. By these dialogues, a man maye take to hym selfe good counsayle.</title>
+            <title>Dialogus creaturarum optimé moralizatus. Dialogues 1-7. English.</title>
+         </titleStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A20405</idno><idno type="EEBO-CITATION">99845214</idno>
+  <idno type="VID">10101</idno>
+  <idno type="EEBO-PROQUEST">2240909194</idno>
+  <idno type="STC">STC 6816</idno>
+  <idno type="STC">ESTC S109567</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99845214e"/>
+            <note>(EEBO-TCP ; phase 2, no. A20405)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 10101)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 34:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Here be .vij. dialogues The fyrst is of the so[n]ne and of the moone. The seconde of Saturne, and of the clowde. The .iii. of the sterre named Transmontana, and other sterres. The .iiij. of the euyn sterre and the morowe sterre. The .v. of the raynebowe, and the sygne Cancer. The .vi. of heauen, and of earth. The .vij of the eyre, and of the wynde. By these dialogues, a man maye take to hym selfe good counsayle.</title>
+                  <title>Dialogus creaturarum optimé moralizatus. Dialogues 1-7. English.</title>
+                  <author>Nicolaus, Pergaminus, attributed name.</author>
+                  <author>Mayno, de' Mayneri, d. 1368, attributed name.</author>
+               </titleStmt>
+               <extent>[28] p.   </extent>
+               <publicationStmt>
+                  <publisher>Imprynted by me Robert wyer, dwellynge in seynt Martyns parysshe. Ad imprimendum solum,</publisher>
+                  <pubPlace>[[London] :</pubPlace>
+                  <date>[1550?]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A translation of dialogues 1-7 of "Dialogus creaturarum optimé moralizatus", variously attributed to Nicolaus Pergaminus and to Mayno de' Mayneri.</note>
+                  <note>Imprint from colophon; conjectured publication date from STC.</note>
+                  <note>Leaf C3 missigned C2.</note>
+                  <note>Signatures: A-C⁴ D² .</note>
+                  <note>Imperfect; lacks leaf C2.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Fables --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>pfs </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>pfs</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:10101:1"/>
+            <pb facs="tcp:10101:1"/>
+            <p>Here be .vij. Dia<g ref="char:EOLhyphen"/>logues.
+<list>
+                  <item>The fyrst is of the sōne and of the Moone.</item>
+                  <item>The se<g ref="char:EOLhyphen"/>conde of Saturne, and of the Clowde.</item>
+                  <item>The .iii. of the Sterre named Trans<g ref="char:EOLhyphen"/>montana, and o<g ref="char:EOLhyphen"/>ther sterres.</item>
+                  <item>The .iiij. of the euyn Sterre and the morowe sterre.</item>
+                  <item>The .v. of the Raynebowe, and the sygne Cancer.</item>
+                  <item>The .vi. of Heauen, and of Earth.</item>
+                  <item>The .vij of the Eyre, and of the wynde.</item>
+               </list>
+            </p>
+            <p>¶By these dialogues, a man maye take to hym selfe good Counsayle.</p>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="dialogue">
+            <pb facs="tcp:10101:2"/>
+            <head>¶ Of the Sōne, &amp; the Moone. The fyrste Dialogue.</head>
+            <p>
+               <seg rend="decorInit">A</seg>S the Phylosofers sayth, the Sonne is the iye of y<seg rend="sup">e</seg> worlde / the glad<g ref="char:EOLunhyphen"/>nesse, and the Iocundyte of the daye / the beautie of Heuen / the measure of tyme, the ver<g ref="char:EOLunhyphen"/>tue and orygynall of all thynges gro<g ref="char:EOLhyphen"/>wyng, the lord of all planettes, the le<g ref="char:EOLhyphen"/>der and perfectour of al planettes and sterres. ¶ The Moone also as sayeth Ambrose exameron, is bewtye of the nyght, mother and mynyster of all hu<g ref="char:EOLhyphen"/>mours, measure of all tymes, guyder of the see, chaunger of y<seg rend="sup">e</seg> ayre folower of the Sōne. And for as moche as she is moste lyke vnto the Sonne, vpon a tyme she began to detract and defame the Sonne, the whiche he perceyuyng spake to the Moone &amp; said: Why doest thou backebyte me &amp; blasphemest me / I haue euer gyuen the lyght and gone
+<pb facs="tcp:10101:2"/> afore the to thy profyte, &amp; thou hatest me and maliciously malignest agaynst me. Go from me sayde the Moone for I loue y<seg rend="sup">e</seg> nat. For thy great bryghtnes causeth me to be set lytel store by in the worlde. For &amp; thou were nat, I shulde be in great dygnyte. The Sōne answe<g ref="char:EOLunhyphen"/>red &amp; sayd. O thou vncurteys creature be thou content with thy degre. For as I shyne in the day tyme and bere than the rule, so thou without impedyment occupyest all the nyght at thyne owne pleasure. Let vs therfore mekely obey vnto our maker, &amp; exalte nat thy selfe by pryde, but suffre me pacyently to do as I am ordeyned, and do y<seg rend="sup">u</seg> thy duety. The Moone consyderynge no reason in great angre departed and gathered togither all the sterres, and began ba<g ref="char:EOLhyphen"/>tell, &amp; shot arowes agaynst the Sōne, and entended vtterly with dartes and arowes to smyte hym &amp; destroye hym. The Sōne beyng aboue and at a vaū<g ref="char:EOLhyphen"/>tage seynge al this cruelnes, drewe out
+<pb facs="tcp:10101:3"/> his sworde and smote the Moone a son<g ref="char:EOLunhyphen"/>der, &amp; threwe downe the sterres &amp; sayd, as often as y<seg rend="sup">u</seg> art rownde, I shal depar<g ref="char:EOLunhyphen"/>te the. For this cause as fables reporte the Moone conceyueth nat rownde, &amp; sterres oftentymes fall downe. And so the Moone was confused and sayde.</p>
+            <q>
+               <l>Les hurt is to y<seg rend="sup">e</seg> fit yuer, to be parted ī twayne</l>
+               <l>Than to be all lost, &amp; brought v̄nto vayne.</l>
+            </q>
+            <p>SO in lykewyse moche people be<g ref="char:EOLhyphen"/>yng inflate and blowen vp with pryde &amp; elaciō, wold be lyke vnto the Sōne, and haue domynacion abo<g ref="char:EOLhyphen"/>ue all other, and by theyr wylles wolde that none were aboue them, nor lyke vnto them, as the glose sayth. Pride is a brēnyng eleuacyon in the mynde, dys<g ref="char:EOLunhyphen"/>pysyng them that be vnder, and wolde be equall with them that be aboue, for why as Crysostom sayth, desyre of exal<g ref="char:EOLunhyphen"/>tacion is great synne, and vtterly to be dyspysed, and suffraunce is worshipful and cōmendable. It is wrytten &amp; sayd, y<seg rend="sup">t</seg> the prowde people be lyft on heyght,
+<pb facs="tcp:10101:3"/> bycause theyr fall shuld be y<seg rend="sup">e</seg> more gre<g ref="char:EOLhyphen"/>uous. For he that falleth but lowe may soone aryse as the Poete sayth. But he that falleth from on hyghe may nat so esely be restored to helth. Braunches of a tree growynge alowe, be conserued from tēpestes, as wryteth Crysostom. But they y<seg rend="sup">t</seg> be on hygh be oftentymes broken and in great ieoperdye. Wher<g ref="char:EOLunhyphen"/>fore Quintus Curci{us} sayth, that a cer<g ref="char:EOLhyphen"/>tayne persone said vnto kynge Alexaū<g ref="char:EOLhyphen"/>der, that a tree beyng of great heyght may the sooner be blowen vp by y<seg rend="sup">e</seg> rote. And thoughe a Lyon be myghtye and prowde, yet be smal byrdes fedde with his flesshe. ¶A Phylosopher came to the tombe of Alexaunder and sayd / ye<g ref="char:EOLhyphen"/>sterday to this man suffysed nat all the worlde. Nowe is he suffysed w<seg rend="sup">t</seg> the spa<g ref="char:EOLunhyphen"/>ce of .vij. fote long. And therfore pryde is to be reproued. &amp;c.</p>
+         </div>
+         <div n="2" type="dialogue">
+            <head>¶Of Saturne &amp; the Clowde. The seconde Dialogue.</head>
+            <pb facs="tcp:10101:4"/>
+            <p>
+               <seg rend="decorInit">P</seg>Hylosophers wryte that there be .vij. planettes / y<seg rend="sup">t</seg> is to say, Saturne, Iupi<g ref="char:EOLunhyphen"/>ter, Mars, Sol, Venus, Mercurye, &amp; Luna. But there is great space by<g ref="char:EOLhyphen"/>twene planet &amp; planet. For as Moyses greatest of Phylosophers reherseth &amp; sayth / also it is wryten in y<seg rend="sup">e</seg> golden le<g ref="char:EOLhyphen"/>gende, y<seg rend="sup">t</seg> euery compas of euery planet hath in thyckenes y<seg rend="sup">e</seg> way of .v.C. yeres y<seg rend="sup">t</seg> is to meane, asmoche space as a man may iourney and walke in .v.C. yeres / so that dayly his iourney extended to .xl. myles / &amp; euery myle to bere ī length ii.M. pace. Vpon a tyme a great thicke clowde began to exalte her self &amp; sayd. Myne excellencye is great, for I maye by interposycion of my greatnes cause y<seg rend="sup">t</seg> other planettes may nat shewe them selfe in the world but at my wyll. Se<g ref="char:EOLhyphen"/>ynge that I am vnder other planettes and may do so moche, yf I were exal<g ref="char:EOLhyphen"/>ted hygher, than myght I do moche
+<pb facs="tcp:10101:4"/> more. And thus this clowde prowdly ascended vpwarde tyl she came to Sa<g ref="char:EOLunhyphen"/>turne. Saturne seyng this clowde pre<g ref="char:EOLunhyphen"/>sumptuously aplying to go aboue hym was sore greued &amp; sayd vnto her, what arte thou that coueytest with pryde to ascend there as neuer man cam. I shal ascende aboue the said the clowde, and ouerthrowe the. That heryng Satur<g ref="char:EOLhyphen"/>ne and sore moued, ordeyned harneys and wepyn / and stopped fast the waye and threwe downe the clowde, and dy<g ref="char:EOLhyphen"/>stroyed hym for euer and sayde.</p>
+            <q>
+               <l>¶He that coueyteth to be aboue all</l>
+               <l>No force thoughe he haue a fowle fall.</l>
+            </q>
+            <p>SO befell it to Nabugodonosor / whiche desyred to be aboue all o<g ref="char:EOLhyphen"/>ther kynges and prynces, and to be called kyng of all kynges, and Lorde of all lordes. For pryde nat consyderyn<g ref="char:EOLunhyphen"/>ge that almyghty God h<gap reason="illegible" resp="#murp" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> dom<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>na<g ref="char:EOLhyphen"/>cyon aboue all earthly lordshyp<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as it is specifyed, Danyell .iiij. Whan the herte of Nabugodon<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> was lyfte vp
+<pb facs="tcp:10101:5"/> by pryde, wherfore he was deposed frō his dygnyte, wherof it was sayde vnto hym. The dwellyng of y<seg rend="sup">e</seg> shalbe amon<g ref="char:EOLhyphen"/>ge wylde beastes, &amp; God shall eiect the and cast the out from mans company / and thou shalte eate hay lyke an Oxe, and .vij. seasons shalbe chaunged ouer the. It is writen in Hystory scolastical that Nabugodonosor was nat chaun<g ref="char:EOLunhyphen"/>ged in to a beast vnreasonable by muta<g ref="char:EOLunhyphen"/>cyon and chaunge of the body / but by mutacyon and elienacion of his wytte and reason / and also the eloquencie of his speche was taken from hym / and he feined hymselfe y<seg rend="sup">t</seg> in his forelymbes of his body he was lyke to an Oxe or a bul, &amp; in his hinder parties he thought hymselfe to be lyke a lyon. Daniel also at the time of his elienacion prayed for hym so hertely, y<seg rend="sup">t</seg> the .vij. seasons / that is to say .vij. yeres by his prayers were chaunged into .vij. monethes. In the whiche .vij. monethes the space of .xl. dayes he had great infirmite &amp; disease
+<pb facs="tcp:10101:5"/> Other .xl. dayes within the sayde .vij. monethes he retourned to his mynde / and prayde with great wepyng so lar<g ref="char:EOLhyphen"/>gely that his iyen were tourned in to rednes / &amp; lyke vnto rawe flesshe. Many one went to haue a syght of hym / after that .vii. monethes were fully complete and fulfyld, he was reuoked and called agayne vnto his fyrste estate / but he raygned nat immediatly / for there we<g ref="char:EOLhyphen"/>re ordeyned .vij. Iudges, and so he con<g ref="char:EOLhyphen"/>tynued in abstynence &amp; penaunce vnto the ende of .vij. yeres neuer eate breade nor flesshe / nor dranke wyne in al that longe season.</p>
+         </div>
+         <div n="3" type="dialogue">
+            <head>¶Of a sterre called Trāsmon<g ref="char:EOLhyphen"/>tana / and other sterres. The thyrde Dialogue.</head>
+            <p>
+               <seg rend="decorInit">A</seg> Sterre whiche is cal<g ref="char:EOLhyphen"/>led Trāsmōtana standeth euer fyxe in y<seg rend="sup">e</seg> nauyll of the heauen / and goth neuer to declyne, nor laboureth nat by compasse
+<pb facs="tcp:10101:6"/> circuler as other sterres doth. It is as a map<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> or a path of y<seg rend="sup">e</seg> see / to the whi<g ref="char:EOLhyphen"/>che shypmen gyue great attendaunce. All other sterres gathered them togy<g ref="char:EOLhyphen"/>ther and came to this sterre and sayde. Thou syttest alwaye styll and hast ease and rest / and we go aboute and labour without rest, &amp; be thy seruaūtes, aryse thou a whyle and let another be soue<g ref="char:EOLhyphen"/>raygne &amp; occupye thy rome. To whom this sterre Transmontana answered and sayd / ye knowe nat what ye wolde haue for your desyre is nat leafull nor to you expedyent / for I haue great la<g ref="char:EOLhyphen"/>bour and great fatigacion to rule you. And yf I dyd nat wysely conserue you in your places and mocyons / ye shulde greatly erre for lacke of a good guyder Wherfore I coū<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eyl you to be content and in peace. But the other sterres wol<g ref="char:EOLunhyphen"/>de nat be pleased / but rather more wylfuller to haue theyr petycion, &amp; said al at ones. We pray y<seg rend="sup">e</seg> to suffre vs to cho<g ref="char:EOLhyphen"/>se another guyder. Trāsmōtana then
+<pb facs="tcp:10101:6"/> beholdynge theyr frowarde wylfulnes departed from them / and went &amp; com<g ref="char:EOLhyphen"/>playned to his lorde &amp; maker. The ster<g ref="char:EOLhyphen"/>res that seyng made great exaltacyon and gladnes / &amp; applyed them to make election of a newe guyder / but therin they coulde nat agre / but fell at vary<g ref="char:EOLhyphen"/>aunce and began to fyght eche with o<g ref="char:EOLhyphen"/>ther &amp; as shepe lackynge a shepeherde they erred and fell out of good rule. At last whan they consydered the felycytie that they were in somtyme by the poly<g ref="char:EOLunhyphen"/>cye and good guydynge of theyr soue<g ref="char:EOLhyphen"/>raygne / and y<seg rend="sup">e</seg> great myserye that was fallen to them for lacke of hym. They fell in repentaunce and came to theyr fyrste guyder / and prayde hym to take them to grace / and to rule them as he had done before, and confirmed hym in his worshyppe / and sayde all at ones with one voyce.</p>
+            <q>
+               <l>The guyder y<seg rend="sup">t</seg> guydeth, with vertue &amp; grace</l>
+               <l>Shulde neuer be chaunged, lest that a worse haue his place.</l>
+            </q>
+            <pb facs="tcp:10101:7"/>
+            <p>EVen so it is conuenyent for vs to do when we haue a good ruler the which ryghtfully ruleth and guy<g ref="char:EOLunhyphen"/>deth vs, we be boūde to loue hym, and to do hym honour and worshyp / &amp; nat lyghtly to chaunge hym, but cherysshe hym after our power for the great la<g ref="char:EOLhyphen"/>boure that he hath to guyde vs for our wele. The degre of gouernaunce is cal<g ref="char:EOLunhyphen"/>led great worship, but it is great char<g ref="char:EOLhyphen"/>ge as Barnarde sayeth / what is wor<g ref="char:EOLhyphen"/>shyp or power, but a great burdayne &amp; myserie. Or what is sublymyte or dyg<g ref="char:EOLunhyphen"/>nyte of the worlde, but a perylous and doubtful tempest. Who may be in wor<g ref="char:EOLunhyphen"/>shyp or prelacye without payne or try<g ref="char:EOLhyphen"/>bulacyon. Or who is in dygnyte with<g ref="char:EOLhyphen"/>out vanite, as Valery telleth. liber .vij. Of a kynge that was of so great wyt, and so great counsell / that when the Crowne was delyuered to hym he held it long betwene his handes or he set it vpon his heade, and considering it wel and sayd. O noble and fortunable gar<g ref="char:EOLhyphen"/>lande
+<pb facs="tcp:10101:7"/>
+/ howe full of besynes and peryll art thou, innumerable to be tolde. For as Augustyn sayth. There is nothyng more laborious, more harde, nor more peryllous, than is to haue great domy<g ref="char:EOLunhyphen"/>nacion or sygnyorye, and therfore Va<g ref="char:EOLhyphen"/>lerius doth shewe vnto vs in libro .vij. of Corneli scipion / that when Spayne was fallen vnto him / he answered and said he wolde nat go thyther / &amp; shewed the cause why. For he could nat do equi<g ref="char:EOLunhyphen"/>te &amp; ryghtwysnes, for he thought hym selfe nat connynge ne suffycyent to so great a worshyp / and so great a peryll togyther.</p>
+         </div>
+         <div n="4" type="dialogue">
+            <head>¶ Of the euen sterre and the morowe sterre. The .iiij. Dialogue.</head>
+            <p>
+               <seg rend="decorInit">V</seg>Esperus is called the nyght sterre / and Lucyfer the daye sterre / whiche appereth in the morenynge. These two sterres gathered togyther all other ster<g ref="char:EOLunhyphen"/>res
+<pb facs="tcp:10101:8"/>
+/ and went with one assent to the creatour and maker of all sterres / and made vnto hym their supplicacion and sayd. Gracyous lorde thou art a good maker / and we therfore thanke the, for thou hast ordeyned and bestowed vs in the best wyse. But for this cause we be troubled that our beawte &amp; bryghtnes is nat alwaye shewed. Therfore Lorde we mekely beseche the to take the lyght from the Sōne / and make hym darke that our bryghtnes in y<seg rend="sup">e</seg> day tyme may appere &amp; be shewed. To whom the lord and maker answered and said / your pe<g ref="char:EOLunhyphen"/>tycyon is nat lawfull, for the Sōne is the garnyssher of the day, the distrybu<g ref="char:EOLhyphen"/>tour of hours, y<seg rend="sup">e</seg> Orygynall of all thyn<g ref="char:EOLhyphen"/>ges growing, &amp; without hym nothyn<g ref="char:EOLhyphen"/>ge may encrease. Therfore I wyll nat condescende to your petycyon, for it is nat exaudible nor worthy to be alowed Wherfore the sterres seyng they could nat haue theyr desyre went agayne to<g ref="char:EOLhyphen"/>gyther, and fourmed a newe petycyon,
+<pb facs="tcp:10101:8"/> and offred it to theyr maker and sayd. O blessed Lorde and maker of all crea<g ref="char:EOLhyphen"/>tures, we beseche the at least to drye vp and put awaye the clowdes out of the ayre, the which let our bryght lyght to be shewed. For oftentymes for theyr let<g ref="char:EOLunhyphen"/>tynge we maye nat appere / nor be kno<g ref="char:EOLhyphen"/>wen as we be. And therfore lowly we praye the, that where as our fyrste as<g ref="char:EOLhyphen"/>kynge was denyed vs, of thy goodnes graunt vs this seconde petycion &amp; de<g ref="char:EOLhyphen"/>syre. The lorde and maker consyderyn<g ref="char:EOLunhyphen"/>ge theyr symples, gaue them this an<g ref="char:EOLhyphen"/>swere with a sad countenaunce &amp; sayd. Holde your peace and desyre nat vnlea<g ref="char:EOLunhyphen"/>ful thing{is}, for I wyl nat graunt them, for it is wrytten in the boke of Caton. Aske that is ryghtfull, &amp; that y<seg rend="sup">t</seg> semeth honest, y<seg rend="sup">e</seg> clowdes be necessary thoughe ye thynke contrarye. For they w<seg rend="sup">t</seg> theyr rayne moysten the earthe. Yf no rayne shuld fall y<seg rend="sup">e</seg> earth colde nat be fruytfull and w<seg rend="sup">t</seg> this answere he put the sterres from theyr desyre, &amp; sayd in this wyse.</p>
+            <pb facs="tcp:10101:9"/>
+            <q>
+               <l>¶ That petycion maye iustely be denyed</l>
+               <l>Whiche at no tyme, to reason is applyed.</l>
+            </q>
+            <p>BY this example it apereth that he that wyll be harde in his prayers or in his supplycacion / must aske the thynges y<seg rend="sup">t</seg> be ryghtfull, honest and reasonable to be graunted. Wherfore seynt Austyn sayeth / when ye aske the thing{is} which god laudeth and promy<g ref="char:EOLhyphen"/>seth / then is your askyng sure, for that peticion is soone graūted of god. Ther<g ref="char:EOLunhyphen"/>fore Isodore sayth trewe. Many men praying be nat harde in theyr askynge. For god graūteth them better &amp; more for theyr welth then they desyre. Senec sayth in the .ij. boke of benefites. That a certayne persone on a tyme asked .i.<abbr>d</abbr> of Alexander, and he gaue him an hole towne. And when the peticioner than<g ref="char:EOLhyphen"/>ked Alexander / and sayde he was nat worthye nor able to receyue so great a gyfte. Alexaunder answered and sayde to hym / I retayne nat in my mynde what becōmeth the to aske, but what
+<pb facs="tcp:10101:9"/> becōmeth me to gyue. So almyghtye god doth, for oftentymes he graunteth nat our askyng, bycause he wyll auaū<g ref="char:EOLhyphen"/>ce our peticion with a better, and more profitable rewarde. And therfore sayth Isodore. Somtymes God heareth nat many folkes to theyr pleasure, for he wyl gracyously here them to theyr mo<g ref="char:EOLhyphen"/>re profyte and health.</p>
+         </div>
+         <div n="5" type="dialogue">
+            <head>¶Of the Raynbowe / and of a sygne called Cancer. The v. Dialogue.</head>
+            <p>
+               <seg rend="decorInit">O</seg>Vr Lordes bowe af<g ref="char:EOLhyphen"/>ter y<seg rend="sup">e</seg> fyrste flode ap<g ref="char:EOLhyphen"/>pered in the clowdes hauing two colours that was waterye &amp; fyery, signyfying the iudgement cōmyng, which bowe appered by the space of xl. yeres after the buyldynge of the Arke, as it is sayd Historie scolasticall. Can<g ref="char:EOLhyphen"/>cer is one of the sygnes of heuen, &amp; this
+<pb facs="tcp:10101:10"/> worde Cancer is Equiuocū, &amp; hath ma<g ref="char:EOLhyphen"/>ny significaciōs, but natwithstanding here it betokeneth the sygne of heauen And so this sygne Cancer wēt vnto the Raynbowe in a great anger and sayd. Thou art to bolde, for all heuen is lytel ynough for y<seg rend="sup">e</seg>, in so moch y<seg rend="sup">t</seg> thou besyest y<seg rend="sup">e</seg> to let me of my course, &amp; other sterres that shulde occupy there. Wherfore I aduyse the to be remoued lightly, or els thou shalt be surely coryed of me &amp; my company. The bowe answered &amp; sayd. Brother thou spekest nat wel, for I am nat aboute to let the of thy waye, for I shewe my selfe but in the day tyme, and thou ī the nyght rōnest where pleaseth the. Wherfore me thynketh yf thou en<g ref="char:EOLunhyphen"/>tende to fyght with me, thou arte euyll aduysed for this cause. For thou mayst gather great company of sterres to hol<g ref="char:EOLunhyphen"/>de with the. And I haue frēdes ynowe, both clowdes and also great thonders to fyght agaynst y<seg rend="sup">e</seg> for all thy strength, &amp; so there may growe great myschefe.
+<pb facs="tcp:10101:10"/> But I wyll counceyll the for the best, that we do go before a ryghtwise iudge that he may termyne the questyon by a dyffynytyfe sentence, and let the fawte be punysshed there as it is, wherto Cā<g ref="char:EOLhyphen"/>cer agreed. And whē they both were be<g ref="char:EOLhyphen"/>fore the presence of the Iudge, and had shewed there vnto hym theyr matter. The Iudge spake than and sayd thus. Thou wycked Cancer, it is against the lawe or reason, yf y<seg rend="sup">e</seg> prehemynence that thou askest and desyrest of the bowe. Yf thou haue thy wyll &amp; walkynge in the nyght tyme, and the bowe but onely in the day tyme, howe maye it be credyble that he letteth thy waye. Therfore this is my sentence agaynst the. ¶ I wyll &amp; charge the that thou neuer appere in the day tyme. And I condempethe in all expences &amp; costes of the courte, Can<g ref="char:EOLhyphen"/>cer hearynge this sentence, was greatly a shamed and sayde.</p>
+            <q>
+               <l>¶A besy man / that is full of questyon</l>
+               <l>Causeth to hym self, oft great confusyon.</l>
+            </q>
+            <pb facs="tcp:10101:11"/>
+            <p>
+               <seg rend="decorInit">O</seg>F dyuers Philosophers the saying is / that the earth is the mydel parte of y<seg rend="sup">e</seg> worlde. the conseruer of fruytes, the couerynge of hell, the norys<g ref="char:EOLhyphen"/>sher of all quycke thinges. The mother of all growyng thynges. The conserua<g ref="char:EOLunhyphen"/>tryce of lyfe / &amp; the swalower of all thyn<g ref="char:EOLunhyphen"/>ges. ¶ Vpon a tyme heuen sent downe to y<seg rend="sup">e</seg> earth here many great tempestes / of rayne, of thonder, and of lyghtnyng, wherby he greued the earth verye sore, when she was angry and greatly dys<g ref="char:EOLhyphen"/>plesed she called the ayre to her &amp; sayd. Brother ayre I pray the medyll nat by<g ref="char:EOLhyphen"/>twene heauen and me, for myne entente is vtterly fyxed to ouerthrowe hym, for he hath done great wronge &amp; iniu<g ref="char:EOLhyphen"/>ry vnto me, that I hope to be auenged vpon hym with suche wayes as I can fynde. To whom y<seg rend="sup">e</seg> ayre answered and sayd. Do nat so syster, but let thy wrath passe. For thoughe it be so that heauen haue greued the nowe, another tyme ye
+<pb facs="tcp:10101:11"/> shall be frendes &amp; make mery togither. The earth beyng blynde and ouercome with anger wolde nat cease, but ran &amp; caught harneys, &amp; began to fyght w<seg rend="sup">t</seg> he<g ref="char:EOLunhyphen"/>uen. That seyng y<seg rend="sup">e</seg> ayre raysed vp great darkenes, &amp; brought forth great clow<g ref="char:EOLhyphen"/>des, &amp; caused so great thyckenes, that the earth coulde nat discerne where he<g ref="char:EOLhyphen"/>uen was. And that contynewed so lon<g ref="char:EOLhyphen"/>ge, vntyll the wrath and wodnes was clene gone. Than after that y<seg rend="sup">e</seg> ayre sent out wyndes and purged the countrey, and droue away the mystes &amp; darknes<g ref="char:EOLhyphen"/>ses, and made all clere and sayde.</p>
+            <q>
+               <l>¶ Of yre and malyce / to do out the flame</l>
+               <l>we be all boūde / &amp; nat to nurysshe y<seg rend="sup">e</seg> same.</l>
+            </q>
+            <p>EVery man ought so to do when he seth his frendes and neyghbours wroth togyther. For after the say<g ref="char:EOLunhyphen"/>inge of Caton. Yre &amp; wrath letteth the mynde that it may nat discerne truth. For a man y<seg rend="sup">t</seg> is angry is past his myn<g ref="char:EOLhyphen"/>de, and therfore he is to be temperatly guyded and refrayned by his frendes,
+<pb facs="tcp:10101:12"/> tyll he be remoued from that wodnes / and tyll wrath in hym be ended. For as Seneca sayth The begynnyng of wys<g ref="char:EOLunhyphen"/>dom is to moderate yre and wrath / for he that ouercōmeth wrath / doth ouer<g ref="char:EOLhyphen"/>come his greatest ennemye, as Valery telleth whan Archita Tarentius was greued with his seruaunt, he said vnto hym. O thou vnhappy creature nowe wolde I correcte the / yf I were nat at this tyme wroth with the. Wherby it appereth that Yre and malyce is to be voyded out of mynde. For it is sayde in y<seg rend="sup">e</seg> boke of Prouerbes .xxvij. Yre hath no mercye. Therfore a Iudge ought neuer to gyue sentence whyle he is an<g ref="char:EOLhyphen"/>grye. Wherfore it is red in thystoryes of Romaynes y<seg rend="sup">t</seg> Theodosius the empe<g ref="char:EOLhyphen"/>rour was often tymes prompt and dys<g ref="char:EOLhyphen"/>posed to do cruell execucyon. But there was a wyse man that gaue hym coun<g ref="char:EOLhyphen"/>ceyl that whan he felt hymselfe greued and angry / or euer he gaue any senten<g ref="char:EOLhyphen"/>ce he shulde saye and reherse softly with
+<pb facs="tcp:10101:12"/> in hymselfe .xxiij. letters of the .A.b.c. That his mynde myght be refresshed / and so to muse what was best to be do<g ref="char:EOLunhyphen"/>ne / and that he myght the more rypely se and knowe what iudgement ought ryghtwysly to be gyuen with good dis<g ref="char:EOLunhyphen"/>crecyon and delyberacyon.</p>
+         </div>
+         <div n="7" type="dialogue">
+            <head>¶Of the ayre and the wynde. The .vij. Dialogue,</head>
+            <p>
+               <seg rend="decorInit">A</seg>S y<seg rend="sup">e</seg> Phylosophers sayth the ayre is the spiracle of all thyng{is} lyuynge with out whom al thynges is soone choked / and dyeth that is lyuynge. The wynde also is the dryer of y<seg rend="sup">e</seg> earth / the mouer of waters, and troubler of the ayre. And bycause he is troubler of the ayre / the ayre cau<g ref="char:EOLhyphen"/>sed hym to be cited before y<seg rend="sup">e</seg> hygh iudge and maker of all thynges &amp; sayd. O al<g ref="char:EOLhyphen"/>myghty lord and maker of all thynge / Loke vpon me I beseche the / and haue mercye vpon me. Thou hast ordeyned
+<pb facs="tcp:10101:13"/> me suffycyently / and indewed me with great pryuylege, wherfore I gyue lau<g ref="char:EOLhyphen"/>de and thanke vnto the. For thou hast made me to be lyfe of all thynges. But for this cause I am greatly troubled &amp; vexed with the wynde / for he euer ma<g ref="char:EOLhyphen"/>keth me colde / and causeth me to be vn<g ref="char:EOLunhyphen"/>temperate. Therfore I say vnto hym / yf euer from henseforth he presume for to blowe vpon me / I wyll choke hym and put hym from his lyfe. To whom the maker answered &amp; sayd Ayre thou spekest nat well / thoughe y<seg rend="sup">e</seg> wynde ma<g ref="char:EOLhyphen"/>ke the colde and beat y<seg rend="sup">e</seg> with his blast / neuertheles he yeldeth the purged and temperate. yf it so were that the wynde blewe nat on the / thou shuldest be sicke and corrupte both tedious and hateful to euery man / wherfore thou oughtest to loue hym that conserueth y<seg rend="sup">e</seg> in good estate / and so the ayre was wel pleased and sayde.</p>
+            <q>
+               <l>¶Correctours y<seg rend="sup">t</seg> correct vs for our own good</l>
+               <l>we ought to loue &amp; to suffre with glad mood.</l>
+            </q>
+            <pb facs="tcp:10101:13"/>
+            <p>SO euery creature ought to loue them that correct them and she<g ref="char:EOLhyphen"/>weth them theyr fautes / and en<g ref="char:EOLunhyphen"/>tende to reduce them to goodnesse and to the waye of truth. For truely y<seg rend="sup">e</seg> sycke man that denyeth to drynke the bytter drynke that his leche gyueth hym wyll nat suffere hymselfe to be cured, and so he shall neuer be delyuered from his fe<g ref="char:EOLunhyphen"/>blenes. And he y<seg rend="sup">t</seg> hateth his correctour shal nat be well directed. Valery sayth That a man loueth nat his leche / whē he wyll nat suffre hym that rebuketh hym for his good. But trewe it is that Crysostom sayth. He shall haue hatred that repreueth the synful. And Seneca sayeth. He seketh a blame to hym selfe, that rebuketh the wycked man. Suche be nat wysemen, but rather they be fo<g ref="char:EOLunhyphen"/>les, as sayth Ecclesiastes. A wyse mā lo<g ref="char:EOLunhyphen"/>ueth to be rebuked / but a fole is wroth yf he be correct. Therfore correct a wy<g ref="char:EOLunhyphen"/>se man / &amp; he shall loue the. Prouerb .ix It is wrytten in the lyfe of saynt Am<g ref="char:EOLhyphen"/>brose,
+<pb facs="tcp:10101:14"/> that when Theodosius the empe<g ref="char:EOLunhyphen"/>rour had punysshed dyuers &amp; dwellers of that countrey without delyberacyon and iudgement. Ambrose the archebys<g ref="char:EOLunhyphen"/>shop of Mylayne expulsed hym out of the Churche / althoughe he was a cry<g ref="char:EOLhyphen"/>sten Emperour. And when the Empe<g ref="char:EOLhyphen"/>rour knewe it / he sayde vnto Ambrose. Dauid cōmytted both adultery &amp; manslaughter. And Ambrose answered. Yf thou hast folowed hym in his erroure / folowe also the penaunce of hym. The Emperour that herynge, was very con<g ref="char:EOLunhyphen"/>tryte inwardly and dyd great penaun<g ref="char:EOLhyphen"/>ce and sayde. I haue founde a man of trouth Ambrose the bisshop. And so the Emperour ordeyned that no man shul<g ref="char:EOLunhyphen"/>de be iudged to deathe w<seg rend="sup">t</seg>out .xl. dayes of resoyte / that yre myghte be swaged and y<seg rend="sup">e</seg> mynde myght be the more clere / that ryghtwysnes myght be sene in gy<g ref="char:EOLunhyphen"/>uynge of Iudgement.</p>
+         </div>
+         <trailer>¶Finis.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprynted by me Robert wyer, dwell<g ref="char:EOLhyphen"/>ynge in seynt Martyne parysshe. Ad imprimendum solum.</p>
+            <pb facs="tcp:10101:14"/>
+         </div>
+      </back>
+   </text>
+</TEI>
